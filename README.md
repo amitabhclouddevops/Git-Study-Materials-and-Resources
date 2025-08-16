@@ -36,8 +36,8 @@ Help us grow and reach more learners by sharing this repository with your friend
 ## 👥 Join Our Learning Communities for More Resources:  
 Stay updated with **jobs**, **internships**, and **interview preparation materials** by joining the communities below:
 
-### 💼 [Join our Telegram Channel for Regular Job and Internship Updates](https://telegram.me/jobsinternshipswale)  
-### 📘 [Telegram Channel for Notes & Interview Prep Materials](https://telegram.me/staylearner)  
+### 💼 [Join our Telegram Channel for Regular Job and Internship Updates](https://telegram.me/)  
+### 📘 [Telegram Channel for Notes & Interview Prep Materials](https://telegram.me/)  
 ### 📸 [Follow us on Instagram for Coding Notes & More](https://www.instagram.com/coders_notes/)
 
 ---
